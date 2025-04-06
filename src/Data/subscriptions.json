@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Netflix",
+    "plan": "Standard",
+    "billing": "Monthly",
+    "category": "Entertainment",
+    "nextPayment": "2025-04-10",
+    "paymentMethod": "Credit Card",
+    "last4Digits": "1234",
+    "amount": "₹649/mo",
+    "iconColor": "#e50914",
+    "state": "Active"
+  },
+  {
+    "name": "Spotify",
+    "plan": "Premium",
+    "billing": "Monthly",
+    "category": "Music",
+    "nextPayment": "2025-04-20",
+    "last4Digits": "5231",
+    "paymentMethod": "Debit Card",
+    "amount": "₹199/mo",
+    "iconColor": "#1db954",
+    "state": "Active"
+  },
+  {
+    "name": "Adobe Creative",
+    "plan": "Annual",
+    "billing": "Yearly",
+    "category": "Productivity",
+    "nextPayment": "2025-06-01",
+    "last4Digits": "1234",
+    "paymentMethod": "Credit Card",
+    "amount": "₹1500/yr",
+    "iconColor": "#ff0000",
+    "state": "Active"
+  },
+  {
+    "name": "Youtube",
+    "plan": "Premium",
+    "billing": "Monthly",
+    "category": "Entertainment",
+    "nextPayment": "2025-04-25",
+    "last4Digits": "7789",
+    "paymentMethod": "UPI",
+    "amount": "₹199/mo",
+    "iconColor": "#ff0000",
+    "state": "Active"
+  },
+  {
+    "name": "Amazon Prime",
+    "plan": "Standard",
+    "billing": "Monthly",
+    "category": "Shopping",
+    "nextPayment": "2025-04-30",
+    "last4Digits": "1234",
+    "paymentMethod": "Credit Card",
+    "amount": "₹999/mo",
+    "iconColor": "#ff9900",
+    "state": "Active"
+  },
+  {
+    "name": "Todoist",
+    "plan": "Premium",
+    "billing": "Monthly",
+    "category": "Productivity",
+    "nextPayment": "2024-06-05",
+    "last4Digits": "5231",
+    "paymentMethod": "Debit Card",
+    "amount": "₹499/mo",
+    "iconColor": "#d97706",
+    "state": "Active"
+  }
+]
